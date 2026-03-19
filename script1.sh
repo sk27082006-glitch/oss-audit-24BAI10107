@@ -1,4 +1,4 @@
-STUDENT_NAME="Your Name"
+STUDENT_NAME="Surabhi Kumari"
 SOFTWARE_CHOICE="Python"
 
 KERNEL=$(uname -r)
