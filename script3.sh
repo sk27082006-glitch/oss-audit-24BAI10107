@@ -1,4 +1,4 @@
-DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/holder")
+DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
 echo "Directory Audit Report"
 echo "----------------------"
